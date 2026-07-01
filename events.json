@@ -1,0 +1,72 @@
+{
+  "combat_danger": [
+    "Jin walks in visibly injured, breathing heavily, after using poison darts from the shadows",
+    "A distant Mongol war horn blows, and arrows begin raining down on the village fences",
+    "Jin asks the NPC to fight alongside him right now against approaching enemies",
+    "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly",
+    "Enemy scouts are spotted approaching the village and the NPC must decide how to react",
+    "Jin returns victorious from a large battle but with heavy losses among the villagers",
+    "The NPC is ambushed and Jin arrives just in time to help",
+    "A fire breaks out in the village after a Mongol raid",
+    "Jin brings back a captured Mongol soldier for questioning",
+    "The NPC discovers Mongol scouts mapping the village defenses"
+  ],
+  "quest_request": [
+    "Jin asks the NPC to abandon their personal task to help rescue prisoners",
+    "Jin asks the NPC for information about a nearby threat",
+    "The NPC asks Jin for a personal favor unrelated to the war",
+    "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities",
+    "The NPC offers to help Jin without being asked, based on what they've heard",
+    "Jin asks the NPC to teach him a new skill or technique",
+    "The NPC asks Jin to deliver a message to someone in another village",
+    "Jin requests supplies or resources the NPC has been gathering",
+    "The NPC warns Jin about a trap or ambush they've discovered",
+    "Jin asks the NPC to keep a secret from Lord Shimura"
+  ],
+  "emotional_relational": [
+    "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics",
+    "Player asks the NPC about a person they've lost",
+    "Player questions whether the NPC trusts Jin",
+    "Player asks the NPC's honest opinion of another major character",
+    "The NPC witnesses a moment that conflicts with their own values",
+    "Player asks the NPC if they regret a past decision",
+    "Player asks the NPC what they're most afraid of",
+    "Player asks the NPC about their hopes for after the war",
+    "The NPC overhears Jin and another character arguing",
+    "Player asks the NPC if they believe Tsushima can be saved"
+  ],
+  "lore_recall": [
+    "Player asks the NPC what happened at the Battle of Komoda Beach",
+    "Player asks the NPC to explain their relationship with Jin",
+    "Player asks the NPC about their personal history before the invasion",
+    "Player asks the NPC's opinion on the samurai code versus survival tactics",
+    "Player asks the NPC what they know about the enemy leader",
+    "Player asks the NPC about the history of their village",
+    "Player asks the NPC what they know about Ryuzo's betrayal",
+    "Player asks the NPC to explain the legend of the Ghost",
+    "Player asks the NPC what Lord Shimura was like before the invasion",
+    "Player asks the NPC about their training or how they learned their skills"
+  ],
+  "casual_offtopic": [
+    "Player greets the NPC with simple small talk",
+    "Player asks the NPC an unrelated, random question",
+    "Player insults or provokes the NPC",
+    "Player compliments the NPC",
+    "Player asks the NPC something outside of what they would know",
+    "Player asks the NPC for directions somewhere in the village",
+    "Player asks the NPC what they're currently doing",
+    "Player jokes with the NPC",
+    "Player asks the NPC about the weather or season",
+    "Player asks the NPC if they need any help with daily tasks"
+  ],
+  "moral_conflict": [
+    "Jin makes a decision the NPC strongly disagrees with",
+    "The NPC is forced to choose between personal loyalty and duty",
+    "Jin defends his use of dishonorable tactics to the NPC",
+    "The NPC catches another villager collaborating with the Mongols",
+    "Jin asks the NPC whether the ends justify the means",
+    "The NPC must decide whether to report something Jin did to Lord Shimura",
+    "A villager blames the NPC for a recent tragedy",
+    "The NPC is offered a deal by an enemy in exchange for information"
+  ]
+}

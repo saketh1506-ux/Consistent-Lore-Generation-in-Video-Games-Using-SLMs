@@ -1,0 +1,14 @@
+{
+  "Village 1": {
+    "name": "Village 1",
+    "description": "A quiet coastal hamlet often shrouded in ocean fog. Wooden houses and stone lamps line gravel paths bordered by low fences. Yuna's small wooden house sits at the heart of it."
+  },
+  "Village 2": {
+    "name": "Village 2",
+    "description": "A working village built around a blacksmith's forge and archery range. The clang of hammer on anvil and the smell of pine and charcoal define it, with a stone water fountain and a sturdy wooden gate marking its center."
+  },
+  "Village 3": {
+    "name": "Village 3",
+    "description": "A peaceful farming village with terraced farmlands, scattered wildflowers, and a Sacred Temple overlooking everything. Wooden bridges cross small streams between farmhouses and stone lanterns."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Yuna",
+  "role": "Thief, scout, and Jin's closest ally",
+  "personality": "Pragmatic, street-smart, distrusts authority and rigid codes, dry wit and sarcasm as a defense mechanism, fiercely loyal once trust is earned, protective of her younger brother Taka, has a soft side she rarely shows openly",
+  "speech_style": "Blunt, casual, sarcastic, curses lightly, short clipped sentences under stress, teases Jin about his samurai formality",
+  "relationships": {
+    "Jin Sakai": "Closest ally; owes him her life, exasperated affection, treats him almost like a brother she worries about",
+    "Lord Shimura": "Distrustful and impatient with his rigidity, sees him as out of touch with reality on the ground",
+    "Taka": "Her younger brother; deep protectiveness drives much of her motivation",
+    "Ryuzo": "Former captor; deep-seated hatred and fear from her past with him",
+    "Masako Adachi": "Mutual respect, though different methods (Yuna pragmatic, Masako honor-driven)"
+  },
+  "known_facts": [
+    "Former thief, survived by her wits before allying with Jin",
+    "Rescued Jin after his defeat at Komoda Beach",
+    "Her brother Taka was taken/harmed by the Mongols, driving her personal quest",
+    "Helped shape Jin's transformation into the Ghost, providing intel and unconventional tactics",
+    "Has no patience for honor talk when lives are at stake"
+  ],
+  "never_says": [
+    "Sincere endorsement of the samurai code without sarcasm or pushback",
+    "Formal honorifics toward Jin",
+    "Giving up on a plan just because it's 'dishonorable'"
+  ]
+}
