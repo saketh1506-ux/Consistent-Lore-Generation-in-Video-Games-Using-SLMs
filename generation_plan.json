@@ -1,0 +1,1232 @@
+{
+  "Yuna|Village 1": [
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC overhears Jin and another character arguing"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain their relationship with Jin"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC's honest opinion of another major character"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC must decide whether to report something Jin did to Lord Shimura"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "combat_danger",
+      "event": "A distant Mongol war horn blows, and arrows begin raining down on the village fences"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    }
+  ],
+  "Yuna|Village 2": [
+    {
+      "category": "moral_conflict",
+      "event": "Jin makes a decision the NPC strongly disagrees with"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their training or how they learned their skills"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player questions whether the NPC trusts Jin"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "combat_danger",
+      "event": "A distant Mongol war horn blows, and arrows begin raining down on the village fences"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin asks the NPC to fight alongside him right now against approaching enemies"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin for a personal favor unrelated to the war"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC overhears Jin and another character arguing"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC witnesses a moment that conflicts with their own values"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC for information about a nearby threat"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    }
+  ],
+  "Yuna|Village 3": [
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain their relationship with Jin"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC's honest opinion of another major character"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC if they need any help with daily tasks"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player greets the NPC with simple small talk"
+    }
+  ],
+  "Lord Shimura|Village 1": [
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin to deliver a message to someone in another village"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player jokes with the NPC"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC overhears Jin and another character arguing"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what Lord Shimura was like before the invasion"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC's opinion on the samurai code versus survival tactics"
+    }
+  ],
+  "Lord Shimura|Village 2": [
+    {
+      "category": "moral_conflict",
+      "event": "Jin makes a decision the NPC strongly disagrees with"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC for directions somewhere in the village"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their training or how they learned their skills"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player jokes with the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player greets the NPC with simple small talk"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is offered a deal by an enemy in exchange for information"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC if they need any help with daily tasks"
+    },
+    {
+      "category": "combat_danger",
+      "event": "A distant Mongol war horn blows, and arrows begin raining down on the village fences"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what Lord Shimura was like before the invasion"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    }
+  ],
+  "Lord Shimura|Village 3": [
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about Ryuzo's betrayal"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC is ambushed and Jin arrives just in time to help"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC if they need any help with daily tasks"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their training or how they learned their skills"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin to deliver a message to someone in another village"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC's opinion on the samurai code versus survival tactics"
+    }
+  ],
+  "Masako Adachi|Village 1": [
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player questions whether the NPC trusts Jin"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain their relationship with Jin"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "combat_danger",
+      "event": "A fire breaks out in the village after a Mongol raid"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin walks in visibly injured, breathing heavily, after using poison darts from the shadows"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    }
+  ],
+  "Masako Adachi|Village 2": [
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC for directions somewhere in the village"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is offered a deal by an enemy in exchange for information"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC must decide whether to report something Jin did to Lord Shimura"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin asks the NPC to fight alongside him right now against approaching enemies"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin makes a decision the NPC strongly disagrees with"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC offers to help Jin without being asked, based on what they've heard"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    }
+  ],
+  "Masako Adachi|Village 3": [
+    {
+      "category": "moral_conflict",
+      "event": "The NPC must decide whether to report something Jin did to Lord Shimura"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their training or how they learned their skills"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC's honest opinion of another major character"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC's opinion on the samurai code versus survival tactics"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    }
+  ],
+  "Ryuzo|Village 1": [
+    {
+      "category": "combat_danger",
+      "event": "Enemy scouts are spotted approaching the village and the NPC must decide how to react"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC for directions somewhere in the village"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is offered a deal by an enemy in exchange for information"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC must decide whether to report something Jin did to Lord Shimura"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player questions whether the NPC trusts Jin"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "combat_danger",
+      "event": "A distant Mongol war horn blows, and arrows begin raining down on the village fences"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain their relationship with Jin"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    }
+  ],
+  "Ryuzo|Village 2": [
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they believe Tsushima can be saved"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC's honest opinion of another major character"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC witnesses a moment that conflicts with their own values"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC for information about a nearby threat"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what Lord Shimura was like before the invasion"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC if they need any help with daily tasks"
+    }
+  ],
+  "Ryuzo|Village 3": [
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin to deliver a message to someone in another village"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player greets the NPC with simple small talk"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC's opinion on the samurai code versus survival tactics"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is offered a deal by an enemy in exchange for information"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC witnesses a moment that conflicts with their own values"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC is forced to choose between personal loyalty and duty"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin defends his use of dishonorable tactics to the NPC"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC something outside of what they would know"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin walks in visibly injured, breathing heavily, after using poison darts from the shadows"
+    }
+  ],
+  "Khotun Khan|Village 1": [
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what they know about the enemy leader"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about a person they've lost"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC overhears Jin and another character arguing"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin makes a decision the NPC strongly disagrees with"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin to deliver a message to someone in another village"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC witnesses a moment that conflicts with their own values"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC's opinion on the samurai code versus survival tactics"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what Lord Shimura was like before the invasion"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "A villager blames the NPC for a recent tragedy"
+    }
+  ],
+  "Khotun Khan|Village 2": [
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC for information about a nearby threat"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC an unrelated, random question"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC sees Jin sneak-kill an enemy from the shadows instead of facing them directly"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC if they regret a past decision"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC what they're currently doing"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC about the weather or season"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain their relationship with Jin"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player compliments the NPC"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC about their hopes for after the war"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player questions whether the NPC trusts Jin"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin brings back a captured Mongol soldier for questioning"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "The NPC overhears Jin and another character arguing"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC if they need any help with daily tasks"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC is ambushed and Jin arrives just in time to help"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    }
+  ],
+  "Khotun Khan|Village 3": [
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about their personal history before the invasion"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "The NPC catches another villager collaborating with the Mongols"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC asks Jin to deliver a message to someone in another village"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests the NPC's help on a mission that conflicts with the NPC's own priorities"
+    },
+    {
+      "category": "quest_request",
+      "event": "The NPC warns Jin about a trap or ambush they've discovered"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC to explain the legend of the Ghost"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player insults or provokes the NPC"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC about the history of their village"
+    },
+    {
+      "category": "casual_offtopic",
+      "event": "Player asks the NPC for directions somewhere in the village"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin asks the NPC whether the ends justify the means"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC what they're most afraid of"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to abandon their personal task to help rescue prisoners"
+    },
+    {
+      "category": "emotional_relational",
+      "event": "Player asks the NPC how they feel about Jin's growing use of stealth and unconventional tactics"
+    },
+    {
+      "category": "combat_danger",
+      "event": "Jin returns victorious from a large battle but with heavy losses among the villagers"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to teach him a new skill or technique"
+    },
+    {
+      "category": "combat_danger",
+      "event": "The NPC discovers Mongol scouts mapping the village defenses"
+    },
+    {
+      "category": "lore_recall",
+      "event": "Player asks the NPC what happened at the Battle of Komoda Beach"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin asks the NPC to keep a secret from Lord Shimura"
+    },
+    {
+      "category": "moral_conflict",
+      "event": "Jin makes a decision the NPC strongly disagrees with"
+    },
+    {
+      "category": "quest_request",
+      "event": "Jin requests supplies or resources the NPC has been gathering"
+    }
+  ]
+}

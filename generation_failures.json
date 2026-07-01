@@ -1,0 +1,38 @@
+[
+  {
+    "character": "Yuna",
+    "village": "Village 3",
+    "event": "Player asks the NPC about their hopes for after the war",
+    "error": "Expecting ',' delimiter: line 3 column 100 (char 244)"
+  },
+  {
+    "character": "Masako Adachi",
+    "village": "Village 1",
+    "event": "Player asks the NPC if they regret a past decision",
+    "error": "Expecting ',' delimiter: line 3 column 111 (char 253)"
+  },
+  {
+    "character": "Ryuzo",
+    "village": "Village 1",
+    "event": "Player asks the NPC what they know about the enemy leader",
+    "error": "Expecting ',' delimiter: line 3 column 107 (char 200)"
+  },
+  {
+    "character": "Ryuzo",
+    "village": "Village 1",
+    "event": "Player asks the NPC to explain their relationship with Jin",
+    "error": "Expecting ',' delimiter: line 3 column 107 (char 247)"
+  },
+  {
+    "character": "Ryuzo",
+    "village": "Village 1",
+    "event": "Player asks the NPC about their personal history before the invasion",
+    "error": "Expecting ',' delimiter: line 3 column 107 (char 215)"
+  },
+  {
+    "character": "Ryuzo",
+    "village": "Village 3",
+    "event": "Jin brings back a captured Mongol soldier for questioning",
+    "error": "Expecting ',' delimiter: line 3 column 107 (char 241)"
+  }
+]
